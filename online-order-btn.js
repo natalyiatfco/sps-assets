@@ -8,3 +8,14 @@
 });
 </script>
 <!-- End Online Ordering Button -->
+
+
+<!-- Custom CSS -->          
+a.second-button {
+    display: none;
+}
+
+header#header a.second-button {
+    margin-left: 1.2vw;
+    display: inline-block !important;
+}
